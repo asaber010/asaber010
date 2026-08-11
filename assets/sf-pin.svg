@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="30" viewBox="0 0 175 30">
+  <g transform="translate(1,3.2) scale(1.35)">
+    <g shape-rendering="crispEdges">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-1.6; 0,0" dur="1.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <!-- ball -->
+      <rect x="4" y="0" width="5" height="1" fill="#b92424"/>
+      <rect x="3" y="1" width="1" height="1" fill="#b92424"/>
+      <rect x="4" y="1" width="2" height="1" fill="#ffffff"/>
+      <rect x="6" y="1" width="1" height="1" fill="#f2b8b8"/>
+      <rect x="7" y="1" width="2" height="1" fill="#d42a2a"/>
+      <rect x="9" y="1" width="1" height="1" fill="#b92424"/>
+      <rect x="2" y="2" width="1" height="1" fill="#b92424"/>
+      <rect x="3" y="2" width="2" height="1" fill="#ffffff"/>
+      <rect x="5" y="2" width="1" height="1" fill="#f2b8b8"/>
+      <rect x="6" y="2" width="4" height="1" fill="#d42a2a"/>
+      <rect x="10" y="2" width="1" height="1" fill="#a81f1f"/>
+      <rect x="1" y="3" width="1" height="1" fill="#b92424"/>
+      <rect x="2" y="3" width="1" height="1" fill="#f2b8b8"/>
+      <rect x="3" y="3" width="8" height="1" fill="#d42a2a"/>
+      <rect x="11" y="3" width="1" height="1" fill="#a81f1f"/>
+      <rect x="1" y="4" width="1" height="1" fill="#c22626"/>
+      <rect x="2" y="4" width="9" height="1" fill="#d42a2a"/>
+      <rect x="11" y="4" width="1" height="1" fill="#a81f1f"/>
+      <rect x="1" y="5" width="1" height="1" fill="#c22626"/>
+      <rect x="2" y="5" width="9" height="1" fill="#d42a2a"/>
+      <rect x="11" y="5" width="1" height="1" fill="#a81f1f"/>
+      <rect x="1" y="6" width="1" height="1" fill="#c22626"/>
+      <rect x="2" y="6" width="9" height="1" fill="#d42a2a"/>
+      <rect x="11" y="6" width="1" height="1" fill="#a81f1f"/>
+      <rect x="1" y="7" width="1" height="1" fill="#a81f1f"/>
+      <rect x="2" y="7" width="9" height="1" fill="#c62626"/>
+      <rect x="11" y="7" width="1" height="1" fill="#971b1b"/>
+      <rect x="2" y="8" width="1" height="1" fill="#a81f1f"/>
+      <rect x="3" y="8" width="7" height="1" fill="#bd2323"/>
+      <rect x="10" y="8" width="1" height="1" fill="#971b1b"/>
+      <rect x="3" y="9" width="1" height="1" fill="#8f1717"/>
+      <rect x="4" y="9" width="5" height="1" fill="#a11e1e"/>
+      <rect x="9" y="9" width="1" height="1" fill="#8f1717"/>
+      <rect x="4" y="10" width="5" height="1" fill="#8f1717"/>
+      <!-- shaft -->
+      <rect x="5" y="11" width="1" height="5" fill="#9a9a9a"/>
+      <rect x="6" y="11" width="1" height="5" fill="#d4d4d4"/>
+      <rect x="7" y="11" width="1" height="5" fill="#808080"/>
+      <!-- base -->
+      <rect x="4" y="16" width="5" height="1" fill="#808080"/>
+      <rect x="5" y="17" width="3" height="1" fill="#616161"/>
+    </g>
+  </g>
+  <text x="26" y="21" font-family="ui-monospace, 'SF Mono', Menlo, 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#2ea043">san francisco</text>
+</svg>

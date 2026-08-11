@@ -1,6 +1,10 @@
-# Welcome 👋
+# Welcome! 👋
 
-<img src="assets/sf.svg" height="26" alt="📍 san francisco" /><br />
+My name's Ahmad! Welcome to my GitHub.
+
+EECS @ Berkeley&nbsp; <img src="assets/cal-tilt.svg" height="46" align="absmiddle" alt="Cal" />
+
+<img src="assets/sf-pin.svg" height="28" alt="📍 san francisco" /><br />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=2EA043&width=230&height=26&lines=building+%26+learning" alt="building &amp; learning" />
 
 ## Skills
