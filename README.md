@@ -4,7 +4,7 @@
 
 EECS @ Berkeley&nbsp; <img src="assets/cal-tilt.svg" height="46" align="absmiddle" alt="Cal" />
 
-<img src="assets/sf-aka.svg" height="28" alt="📍 san francisco — aka The City, aka Frisco, aka the 415, aka the Bay" /><br />
+<img src="assets/sf-aka.svg" height="28" alt="📍 san francisco — aka The City, aka Frisco, aka the 415, or just the bay" /><br />
 <img src="assets/quote.svg" height="26" alt="building &amp; learning thennn building again." />
 
 ## Skills
