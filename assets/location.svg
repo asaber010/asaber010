@@ -46,5 +46,5 @@
       <rect x="5" y="17" width="3" height="1" fill="#616161"/>
     </g>
   </g>
-  <text x="26" y="21" font-family="ui-monospace, 'SF Mono', Menlo, 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#2ea043">san francisco</text>
+  <text x="26" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16.5" font-weight="600" letter-spacing="0.3" fill="#2ea043">san francisco</text>
 </svg>

@@ -1,11 +1,11 @@
-# Welcome! 👋
+# Hey there! 👋
 
-My name's Ahmad! Welcome to my GitHub.
+### My name's Ahmad! Welcome to my GitHub.
 
 EECS @ Berkeley&nbsp; <img src="assets/cal-tilt.svg" height="46" align="absmiddle" alt="Cal" />
 
-<img src="assets/sf-pin.svg" height="28" alt="📍 san francisco" /><br />
-<img src="assets/typing.svg" height="26" alt="building &amp; learning" />
+<img src="assets/location.svg" height="28" alt="📍 san francisco" /><br />
+<img src="assets/motto.svg" height="26" alt="building &amp; learning... then building again" />
 
 ## Skills
 
@@ -28,21 +28,18 @@ EECS @ Berkeley&nbsp; <img src="assets/cal-tilt.svg" height="46" align="absmiddl
 <a href="https://en.wikipedia.org/wiki/Node.js" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="Node.js" /></a>
 <a href="https://en.wikipedia.org/wiki/Flask_(web_framework)" title="Flask"><img src="https://skillicons.dev/icons?i=flask" height="44" alt="Flask" /></a>
 <a href="https://en.wikipedia.org/wiki/FastAPI" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="44" alt="FastAPI" /></a>
-<a href="https://en.wikipedia.org/wiki/SQLAlchemy" title="SQLAlchemy"><img src="https://skillicons.dev/icons?i=sqlalchemy" height="44" alt="SQLAlchemy" /></a>
 <a href="https://en.wikipedia.org/wiki/Docker_(software)" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="44" alt="Docker" /></a>
 <a href="https://en.wikipedia.org/wiki/Git" title="Git"><img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" /></a>
-<a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" title="Power BI"><img src="https://skillicons.dev/icons?i=powerbi" height="44" alt="Power BI" /></a>
 
 **Data, Cloud & AI**
 
 <a href="https://en.wikipedia.org/wiki/PostgreSQL" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="44" alt="PostgreSQL" /></a>
 <a href="https://en.wikipedia.org/wiki/MySQL" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" /></a>
 <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="44" alt="AWS" /></a>
-<a href="https://en.wikipedia.org/wiki/Pandas_(software)" title="pandas"><img src="https://skillicons.dev/icons?i=pandas" height="44" alt="pandas" /></a>
 <a href="https://en.wikipedia.org/wiki/TensorFlow" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" height="44" alt="TensorFlow" /></a>
 <a href="https://en.wikipedia.org/wiki/Scikit-learn" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" height="44" alt="scikit-learn" /></a>
 
-<sub>also: SQL · CI/CD · REST APIs · OAuth 2.0 · ETL pipelines · LLM integration</sub>
+<sub>also: SQL · pandas · SQLAlchemy · Power BI · CI/CD · REST APIs · OAuth 2.0 · ETL pipelines · LLM integration</sub>
 
 ## Recent
 

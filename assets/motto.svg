@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 26" width="210" height="26">
+  <path id="pa" d="m0,19 h200">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="m0,19 h200; m0,19 h200; m0,19 h78; m0,19 h78; m0,19 h200; m0,19 h200"
+      keyTimes="0;0.20;0.28;0.72;0.80;1"/>
+  </path>
+  <path id="pb" d="m0,19 h78">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="m0,19 h78; m0,19 h78; m0,19 h145; m0,19 h145; m0,19 h78; m0,19 h78"
+      keyTimes="0;0.28;0.36;0.64;0.72;1"/>
+  </path>
+  <text font-family="ui-monospace, 'SF Mono', Menlo, 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#2ea043">
+    <textPath xlink:href="#pa" href="#pa">building &amp; learning</textPath>
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete"
+      values="1;0;1" keyTimes="0;0.28;0.72"/>
+  </text>
+  <text opacity="0" font-family="ui-monospace, 'SF Mono', Menlo, 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#2ea043">
+    <textPath xlink:href="#pb" href="#pb">building again</textPath>
+    <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0;0.28;0.72"/>
+  </text>
+</svg>
