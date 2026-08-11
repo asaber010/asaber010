@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 26" width="210" height="26">
+  <path id="tp" d="m0,19 h200">
+    <animate id="intro" attributeName="d" begin="0s" dur="1.6s" fill="freeze"
+      values="m0,19 h0 ; m0,19 h200" keyTimes="0;1"/>
+    <animate id="cyc" attributeName="d" begin="intro.end+1.8s; cyc.end+1.8s" dur="3.2s" fill="freeze"
+      values="m0,19 h200 ; m0,19 h78 ; m0,19 h78 ; m0,19 h200" keyTimes="0;0.219;0.656;1"/>
+  </path>
+  <text font-family="ui-monospace, 'SF Mono', Menlo, 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#2ea043">
+    <textPath xlink:href="#tp" href="#tp">building &amp; learning</textPath>
+  </text>
+</svg>
