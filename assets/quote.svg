@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 26" width="420" height="26">
+  <path id="q" d="m0,19 h410">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="m0,19 h0; m0,19 h410; m0,19 h410; m0,19 h0; m0,19 h0"
+      keyTimes="0;0.30;0.78;0.92;1"/>
+  </path>
+  <text font-family="ui-monospace, 'SF Mono', Menlo, 'Cascadia Mono', Consolas, monospace" font-size="16" font-weight="500" fill="#2ea043">
+    <textPath xlink:href="#q" href="#q">building &amp; learning thennn building again.</textPath>
+  </text>
+</svg>

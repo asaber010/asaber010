@@ -5,7 +5,7 @@
 EECS @ Berkeley&nbsp; <img src="assets/cal-tilt.svg" height="46" align="absmiddle" alt="Cal" />
 
 <img src="assets/location.svg" height="28" alt="📍 san francisco" /><br />
-<img src="assets/motto.svg" height="26" alt="building &amp; learning... then building again" />
+<img src="assets/quote.svg" height="26" alt="building &amp; learning thennn building again." />
 
 ## Skills
 
