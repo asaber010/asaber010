@@ -1,18 +1,19 @@
-<table>
+<table align="right">
   <tr>
-    <td width="130" valign="middle">
-      <img src="https://github.com/asaber010.png" width="110" alt="Ahmad Saber" />
-    </td>
-    <td valign="middle">
-      <h1>Ahmad Saber</h1>
-      <p>EECS @ Berkeley &nbsp;<img src="assets/cal-tilt.svg" height="46" align="absmiddle" alt="Cal" /></p>
-    </td>
-    <td width="250" valign="middle">
+    <td>
       <sub>ABOUT ME</sub><br />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=2EA043&width=230&height=26&lines=building+%26+learning" alt="building &amp; learning" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=2EA043&width=230&height=26&repeat=false&lines=building+%26+learning" alt="building &amp; learning" />
     </td>
   </tr>
 </table>
+
+<img src="https://github.com/asaber010.png" width="110" align="left" hspace="12" alt="Ahmad Saber" />
+
+# Ahmad Saber
+
+EECS @ Berkeley&nbsp; <img src="assets/cal-tilt.svg" height="46" align="absmiddle" alt="Cal" />
+
+<br clear="both" />
 
 ## Skills
 
